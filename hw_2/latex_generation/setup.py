@@ -5,7 +5,7 @@ def readme():
     return f.read()
 
 setup(
-  name='latex_generator',
+  name='table_img_latex_gen',
   version='1.0.0',
   author='Anny-waay',
   author_email='ann.komova@gmail.com',
