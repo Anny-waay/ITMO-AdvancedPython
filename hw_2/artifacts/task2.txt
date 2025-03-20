@@ -1,0 +1,1 @@
+Ссылка в PyPI https://pypi.org/project/table-img-latex-gen/1.0.0/
