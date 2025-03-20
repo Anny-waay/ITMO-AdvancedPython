@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+latex_generator.egg-info/PKG-INFO
+latex_generator.egg-info/SOURCES.txt
+latex_generator.egg-info/dependency_links.txt
+latex_generator.egg-info/requires.txt
+latex_generator.egg-info/top_level.txt
+latex_utils/__init__.py
+latex_utils/main.py
